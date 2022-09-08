@@ -8,7 +8,7 @@
 
 
 ## 1-JVM nedir ne işe yarar?
-JVM (Java Virtual Machine) programın çalıştığı platform ile java programı arasında bir ara katman görevi görür. Geliştirme yapılacak platforma ( Windows, Linux)  göre uygun uygulamaları vardır. JVM  içerisinde bytecode içeren .class uzantılı dosyaları anlayabilir. Bytecode’lar sayesinde ise uygulama herhangi bir platformda çalışabilir halde oluyor. Buna ise “Write once, run eveywhere” denir.
+JVM (Java Virtual Machine) programın çalıştığı platform ile java programı arasında bir ara katman görevi görür. Geliştirme yapılacak platforma ( Windows, Linux) göre uygun uygulamaları vardır. JVM  içerisinde bytecode içeren .class uzantılı dosyaları anlayabilir. Bytecode’lar sayesinde ise uygulama herhangi bir platformda çalışabilir halde oluyor. Buna ise “Write once, run eveywhere” denir.
 
 
 
@@ -37,7 +37,7 @@ Derli toplu bir şekilde bilgilerin saklanmasını sağlar. Sıkıştırılma ö
 
 
 ## 6-Abstract class nedir,nasıl çalışır,ne işe yarar, 1 tane abstract class örneği.
-Alt sınıflardan ortak kullanılacak sınıfa Abstrac class denir. Büyük projelerde kullanılan Abstrac class’lar kalıtım özelliği ile kod tekrarını azaltmaya yarar. Nesne türetemezler. Gövde alt sınıf tarafından sağlanır
+Alt sınıflardan ortak kullanılacak sınıfa Abstrac class denir. Büyük projelerde kullanılan Abstract class’lar kalıtım özelliği ile kod tekrarını azaltmaya yarar. Nesne türetemezler. Gövde alt sınıf tarafından sağlanır.
 
 
 
